@@ -5,3 +5,5 @@
 ## teste
 
 ## Salvando alterações no git 
+
+* uso do comando restore
